@@ -60,7 +60,7 @@ Our team estimated that the proposed solution could result in:
 
 The project poster below summarizes the current-state process, identified problems, proposed technical solution, future-state process, and projected outcomes.
 
-![Max Metadata Repository System - Process Improvement Analysis](max-process-improvement-poster.jpg)
+![max Metadata Repository System - Process Improvement Analysis](max-process-improvement-poster.jpeg)
 
 ## Project Contribution
 
