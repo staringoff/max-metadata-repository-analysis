@@ -62,6 +62,10 @@ The project poster below summarizes the current-state process, identified proble
 
 ![max Metadata Repository System - Process Improvement Analysis](max-process-improvement-poster.jpeg)
 
+## Full Project Report
+
+For a deeper look at our systems analysis, stakeholder research, process models, requirements, and proposed solution, view the [full systems analysis team report](max-systems-analysis-team-report.pdf).
+
 ## Project Contribution
 
 This semester-long project was completed collaboratively by our MIS 306 team. We conducted stakeholder interviews, analyzed existing processes, documented system requirements, developed current- and future-state process models, and evaluated potential improvements.
